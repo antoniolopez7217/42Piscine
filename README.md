@@ -63,18 +63,18 @@ chronological order
 
 | PROJECT       | LANGUAGE      | STATUS                  | LEVEL          |
 | ------------- | :-----------: | -------------:        | -------------  |
-| Shell 00      | Shell         | 100% :white_check_mark: | Level 0 (88%)  |
-| C 00          | C		| 85%  :white_check_mark:  | Level 1 (55%)  |
-| C 01          | C		| 100% :white_check_mark: | Level 2 (31%)  |
-| Rush 00       | C		| 116% :white_check_mark: | Level 3 (49%)  |
+| [Shell 00](https://github.com/antoniolopez7217/42Piscine/tree/main/Shell00)      | Shell         | 100% :white_check_mark: | Level 0 (88%)  |
+| [C 00](https://github.com/antoniolopez7217/42Piscine/tree/main/C00)          | C		| 85%  :white_check_mark:  | Level 1 (55%)  |
+| [C 01](https://github.com/antoniolopez7217/42Piscine/tree/main/C01)          | C		| 100% :white_check_mark: | Level 2 (31%)  |
+| [Rush 00](https://github.com/antoniolopez7217/42Piscine/tree/main/Rush00/ex00)       | C		| 116% :white_check_mark: | Level 3 (49%)  |
 | Exam 01       | C		| 32%  :white_check_mark:  | Level 3 (93%)  |
-| C 02          | C		| 85%  :white_check_mark:  | Level 4 (49%)  |
-| C 03          | C		| 100% :white_check_mark: | Level 4 (95%)  |
-| C 04          | C		| 85%  :white_check_mark:  | Level 5 (35%)  |
+| [C 02](https://github.com/antoniolopez7217/42Piscine/tree/main/C02)          | C		| 85%  :white_check_mark:  | Level 4 (49%)  |
+| [C 03](https://github.com/antoniolopez7217/42Piscine/tree/main/C03)          | C		| 100% :white_check_mark: | Level 4 (95%)  |
+| [C 04](https://github.com/antoniolopez7217/42Piscine/tree/main/C04)          | C		| 85%  :white_check_mark:  | Level 5 (35%)  |
 | Exam 02       | C		| 70%  :white_check_mark:  | Level 6 (08%)  |
-| C 05          | C		| 80%  :white_check_mark:  | Level 6 (50%)  |
-| C 06          | C		| 100% :white_check_mark: | Level 6 (81%)  |
-| Shell 01      | Shell         | 100% :white_check_mark: | Level 7 (22%)  |
+| [C 05](https://github.com/antoniolopez7217/42Piscine/tree/main/C05)          | C		| 80%  :white_check_mark:  | Level 6 (50%)  |
+| [C 06](https://github.com/antoniolopez7217/42Piscine/tree/main/C06)          | C		| 100% :white_check_mark: | Level 6 (81%)  |
+| [Shell 01](https://github.com/antoniolopez7217/42Piscine/tree/main/Shell01)      | Shell         | 100% :white_check_mark: | Level 7 (22%)  |
 | Final Exam    | C		| 66%  :white_check_mark:  | Level 8 (11%)  |
 
 
