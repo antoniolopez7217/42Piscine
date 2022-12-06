@@ -62,20 +62,20 @@ The 42 cursus is free for whoever is approved in its selection process. The so-c
 chronological order
 
 | PROJECT       | LANGUAGE      | STATUS                  | LEVEL          |
-| ------------- | :-----------: | :-------------:         | -------------  |
+| ------------- | :-----------: | -------------:        | -------------  |
 | Shell 00      | Shell         | 100% :white_check_mark: | Level 0 (88%)  |
-| C 00          | C		| 85% :white_check_mark:  | Level 1 (55%)  |
+| C 00          | C		| 85%  :white_check_mark:  | Level 1 (55%)  |
 | C 01          | C		| 100% :white_check_mark: | Level 2 (31%)  |
 | Rush 00       | C		| 116% :white_check_mark: | Level 3 (49%)  |
-| Exam 01       | C		| 32% :white_check_mark:  | Level 3 (93%)  |
-| C 02          | C		| 85% :white_check_mark:  | Level 4 (49%)  |
+| Exam 01       | C		| 32%  :white_check_mark:  | Level 3 (93%)  |
+| C 02          | C		| 85%  :white_check_mark:  | Level 4 (49%)  |
 | C 03          | C		| 100% :white_check_mark: | Level 4 (95%)  |
-| C 04          | C		| 85% :white_check_mark:  | Level 5 (35%)  |
-| Exam 02       | C		| 70% :white_check_mark:  | Level 6 (08%)  |
-| C 05          | C		| 80% :white_check_mark:  | Level 6 (50%)  |
+| C 04          | C		| 85%  :white_check_mark:  | Level 5 (35%)  |
+| Exam 02       | C		| 70%  :white_check_mark:  | Level 6 (08%)  |
+| C 05          | C		| 80%  :white_check_mark:  | Level 6 (50%)  |
 | C 06          | C		| 100% :white_check_mark: | Level 6 (81%)  |
 | Shell 01      | Shell         | 100% :white_check_mark: | Level 7 (22%)  |
-| Final Exam    | C		| 66% :white_check_mark:  | Level 8 (11%)  |
+| Final Exam    | C		| 66%  :white_check_mark:  | Level 8 (11%)  |
 
 
 *All the projects have been tested by Moulinette.*
