@@ -16,57 +16,20 @@ This repository contains all the projects I completed during my participation in
 - Peer-to-peer evaluation
 - Group work is not cheating
 
-The 42 cursus is free for whoever is approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp, is the last stage in the selection process for becoming a "cadet" (42's student).
+The 42 cursus is free for whoever is approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp, is the last stage in the selection process for becoming a "cadet" (42's student). 
 
-## Skills developed at C Piscine
-### Hard-skills
-- **C Language**
-
-	The primary language learned at the 42's Piscine is C: dealing with variables,
-	pointers, memory allocation, macros, as well as creating functions and programs,
-	including the use and creation of libraries and Makefiles.
-
-- **Shell**
-
-	The first two days of the bootcamp are dedicated to learning basic to intermediate
-	shell commands to seamlessly navigate through the terminal.
-
-- **Git**
-
-	All projects are submitted via a remote git repository, which demands students to
-	be at ease with such a system.
-
-### Soft-skills
-
-- **Self-learning and proactiveness**
-	
-  At 42, self-learning is at the core of its peer to peer learning methodology. There
-	are no teachers whatsoever; the learning process is based on googling, enquiring
-	your classmates, and empirical knowledge, each student learning at their own pace.
-
-- **Teamwork**
-	
-  On weekends, a 48h team project called "Rush" is proposed: a 3-member group randomly
-	chosen by the school's system must collaboratively develop a fully running application.
-	The major challenge here is to equalize the different knowledge levels while finding a
-	common work methodology that allows all team members to contribute to the project.
-
-- **Time management and resiliency**
-	
-  The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
-	they want, which demands excellent time management skills and resiliency for not
-	"drowning" amid the massive load of work demanded by the non-stop 26-day program.
+During the Piscine, I learned **C Language** (It is the main program used for both projects and exams), **Shell** (The first two days are dedicated to learning the necessary commands to be able to navigate through the MAC terminal) and **Git** (All projects are submitted via a remote git repository).
 
 ## Curriculum
 
-chronological order
+Below are all the projects/examens I did during the Piscine stage in chronological order.
 
 | PROJECT       | LANGUAGE      | DESCRIPTION          | STATUS                  | LEVEL          |
 | ------------- | :-----------: | :-------------        | -------------:        | -------------  |
 | [Shell 00](https://github.com/antoniolopez7217/42Piscine/tree/main/Shell00)      | Shell         | Basic commands in Shell | 100% :white_check_mark: | Level 0 (88%)  |
 | [C 00](https://github.com/antoniolopez7217/42Piscine/tree/main/C00)          | C		| Basic functions in C | 85%  :white_check_mark:  | Level 1 (55%) |
 | [C 01](https://github.com/antoniolopez7217/42Piscine/tree/main/C01)          | C		| Pointers  | 100% :white_check_mark: | Level 2 (31%) |
-| [Rush 00](https://github.com/antoniolopez7217/42Piscine/tree/main/Rush00/ex00)       | C		| Displays a rectangle *X* characters wide and *Y* characters high  | 116% :white_check_mark: | Level 3 (49%) |
+| [Rush 00](https://github.com/antoniolopez7217/42Piscine/tree/main/Rush00/ex00)       | C		| Team project  | 116% :white_check_mark: | Level 3 (49%) |
 | Exam 01       | C		| -  | 32%  :white_check_mark:  | Level 3 (93%)  |
 | [C 02](https://github.com/antoniolopez7217/42Piscine/tree/main/C02)          | C		| Replicating existing C functions  | 85%  :white_check_mark:  | Level 4 (49%)  |
 | [C 03](https://github.com/antoniolopez7217/42Piscine/tree/main/C03)          | C		| Replicating existing C functions  | 100% :white_check_mark: | Level 4 (95%)  |
