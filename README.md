@@ -68,9 +68,9 @@ chronological order
 | [C 01](https://github.com/antoniolopez7217/42Piscine/tree/main/C01)          | C		| Pointers  | 100% :white_check_mark: | Level 2 (31%)  |
 | [Rush 00](https://github.com/antoniolopez7217/42Piscine/tree/main/Rush00/ex00)       | C		| Displays a rectangle *X* characters wide and *Y* characters high  | 116% :white_check_mark: | Level 3 (49%)  |
 | Exam 01       | C		| -  | 32%  :white_check_mark:  | Level 3 (93%)  |
-| [C 02](https://github.com/antoniolopez7217/42Piscine/tree/main/C02)          | C		| Level 0 (88%)  | 85%  :white_check_mark:  | Level 4 (49%)  |
-| [C 03](https://github.com/antoniolopez7217/42Piscine/tree/main/C03)          | C		| Level 0 (88%)  | 100% :white_check_mark: | Level 4 (95%)  |
-| [C 04](https://github.com/antoniolopez7217/42Piscine/tree/main/C04)          | C		| Level 0 (88%)  | 85%  :white_check_mark:  | Level 5 (35%)  |
+| [C 02](https://github.com/antoniolopez7217/42Piscine/tree/main/C02)          | C		| Replicating existing C functions  | 85%  :white_check_mark:  | Level 4 (49%)  |
+| [C 03](https://github.com/antoniolopez7217/42Piscine/tree/main/C03)          | C		| Replicating existing C functions  | 100% :white_check_mark: | Level 4 (95%)  |
+| [C 04](https://github.com/antoniolopez7217/42Piscine/tree/main/C04)          | C		| Replicating existing C functions  | 85%  :white_check_mark:  | Level 5 (35%)  |
 | Exam 02       | C		| -  | 70%  :white_check_mark:  | Level 6 (08%)  |
 | [C 05](https://github.com/antoniolopez7217/42Piscine/tree/main/C05)          | C		| Recursion  | 80%  :white_check_mark:  | Level 6 (50%)  |
 | [C 06](https://github.com/antoniolopez7217/42Piscine/tree/main/C06)          | C		| Programs in C | 100% :white_check_mark: | Level 6 (81%)  |
