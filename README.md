@@ -22,7 +22,7 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 
 ## Curriculum
 
-Below are all the projects/examens I did during the Piscine stage in chronological order.
+Below are all the projects/exams I did during the Piscine stage in chronological order. Also, I have included the level that I got in the 42 intranet after submitting each project.
 
 | PROJECT       | LANGUAGE      | DESCRIPTION          | STATUS                  | LEVEL          |
 | ------------- | :-----------: | :-------------        | -------------:        | -------------  |
