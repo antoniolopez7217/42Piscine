@@ -32,6 +32,18 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_print_comb2`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex06/ft_print_comb2.c) -> 
 - [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex07/ft_putnbr.c) -> 
 
+### C01
+- [`ft_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex00/ft_ft.c) ->
+- [`ft_ultimate_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex01/ft_ultimate_ft.c) ->
+- [`ft_swap`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex02/ft_swap.c) ->
+- [`ft_div_mod`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex03/ft_div_mod.c) ->
+- [`ft_ultimate_div_mod`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex04/ft_ultimate_div_mod.c) ->
+- [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex05/ft_putstr.c) ->
+- [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex06/ft_strlen.c) ->
+- [`ft_rev_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex07/ft_rev_int_tab.c) ->
+- [`ft_sort_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex08/ft_sort_int_tab.c) ->
+
+
 
 ## Curriculum
 
