@@ -20,6 +20,19 @@ The 42 cursus is free for whoever is approved in its selection process. The so-c
 
 During the Piscine, I learned **C Language** (It is the main program used for both projects and exams), **Shell** (The first two days are dedicated to learning the necessary commands to be able to navigate through the MAC terminal) and **Git** (All projects are submitted via a remote git repository).
 
+## C Projects
+
+### C00
+- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
+- [`ft_print_alphabet`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex01/ft_print_alphabet.c) -> 
+- [`ft_print_reverse_alphabet`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex02/ft_print_reverse_alphabet.c) -> 
+- [`ft_print_numbers`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex03/ft_print_numbers.c) -> 
+- [`ft_is_negative`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex04/ft_is_negative.c) -> 
+- [`ft_print_comb`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex05/ft_print_comb.c) -> 
+- [`ft_print_comb2`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex06/ft_print_comb2.c) -> 
+- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex07/ft_putnbr.c) -> 
+
+
 ## Curriculum
 
 Below are all the projects/exams I did during the Piscine stage in chronological order. Also, I have included the level that I got in the 42 intranet after submitting each project.
