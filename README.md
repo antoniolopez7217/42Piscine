@@ -73,7 +73,14 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) ->
 
 ### C05
-- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
+- [`ft_iterative_factorial`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex00/ft_iterative_factorial.c) ->
+- [`ft_recursive_factorial`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex01/ft_recursive_factorial.c) ->
+- [`ft_iterative_power`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex02/ft_iterative_power.c) ->
+- [`ft_recursive_power`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex03/ft_recursive_power.c) ->
+- [`ft_fibonacci`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex04/ft_fibonacci.c) ->
+- [`ft_sqrt`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex05/ft_sqrt.c) ->
+- [`ft_is_prime`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex06/ft_is_prime.c) ->
+- [`ft_find_next_prime`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex07/ft_find_next_prime.c) ->
 
 ### C06
 - [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
