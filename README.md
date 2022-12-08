@@ -46,14 +46,14 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 ### C02
 - [`ft_strcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex00/ft_strcpy.c) -> 
 - [`ft_strncpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex01/ft_strncpy.c) ->
-- [`ft_str_is_alpha`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex02/ft_str_is_alpha.c) ->
-- [`ft_str_is_numeric`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex03/ft_str_is_numeric.c) ->
-- [`ft_str_is_lowercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex04/ft_str_is_lowercase.c) ->
-- [`ft_str_is_uppercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex05/ft_str_is_uppercase.c) ->
-- [`ft_str_is_printable`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex06/ft_str_is_printable.c) ->
-- [`ft_strupcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex07/ft_strupcase.c) ->
-- [`ft_strlowcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex08/ft_strlowcase.c) ->
-- [`ft_strcapitalize`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex09/ft_strcapitalize.c) ->
+- [`ft_str_is_alpha`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex02/ft_str_is_alpha.c) -> Detects if the string contains only alphabetic characters.
+- [`ft_str_is_numeric`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex03/ft_str_is_numeric.c) -> Detects if the string contains only digits.
+- [`ft_str_is_lowercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex04/ft_str_is_lowercase.c) -> Detects if the string contains only lowercase alphabetic characters.
+- [`ft_str_is_uppercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex05/ft_str_is_uppercase.c) -> Detects if the string contains only uppercase alphabetic characters.
+- [`ft_str_is_printable`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex06/ft_str_is_printable.c) -> Detects if the string contains only printable characters.
+- [`ft_strupcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex07/ft_strupcase.c) -> Converts each letter to uppercase.
+- [`ft_strlowcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex08/ft_strlowcase.c) -> Converts each letter to lowercase
+- [`ft_strcapitalize`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex09/ft_strcapitalize.c) -> Converts the first letter of each word to uppercase and the rest to lowercase.
 - [`ft_strlcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex10/ft_strlcpy.c) ->
 
 
