@@ -43,6 +43,32 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_rev_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex07/ft_rev_int_tab.c) ->
 - [`ft_sort_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex08/ft_sort_int_tab.c) ->
 
+### C02
+- [`ft_strcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex00/ft_strcpy.c) -> 
+- [`ft_strncpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex01/ft_strncpy.c) ->
+- [`ft_str_is_alpha`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex02/ft_str_is_alpha.c) ->
+- [`ft_str_is_numeric`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex03/ft_str_is_numeric.c) ->
+- [`ft_str_is_lowercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex04/ft_str_is_lowercase.c) ->
+- [`ft_str_is_uppercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex05/ft_str_is_uppercase.c) ->
+- [`ft_str_is_printable`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex06/ft_str_is_printable.c) ->
+- [`ft_strupcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex07/ft_strupcase.c) ->
+- [`ft_strlowcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex08/ft_strlowcase.c) ->
+- [`ft_strcapitalize`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex09/ft_strcapitalize.c) ->
+- [`ft_strlcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex10/ft_strlcpy.c) ->
+
+
+### C03
+- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
+
+### C04
+- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
+
+### C05
+- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
+
+### C06
+- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
+
 
 
 ## Curriculum
