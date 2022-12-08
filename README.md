@@ -38,10 +38,10 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_swap`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex02/ft_swap.c) -> Swaps the value of two integers whose addresses are used as parameters.
 - [`ft_div_mod`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex03/ft_div_mod.c) -> Divides two integers and stores the result in the pointers passed as parameters.
 - [`ft_ultimate_div_mod`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex04/ft_ultimate_div_mod.c) -> Divides two integers and stores the result in the pointers of those same integers.
-- [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex05/ft_putstr.c) ->
-- [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex06/ft_strlen.c) ->
-- [`ft_rev_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex07/ft_rev_int_tab.c) ->
-- [`ft_sort_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex08/ft_sort_int_tab.c) ->
+- [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex05/ft_putstr.c) -> Displays the characters of a string one by one.
+- [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex06/ft_strlen.c) -> Displays the number of characters in a string.
+- [`ft_rev_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex07/ft_rev_int_tab.c) -> Inverts an array of integers.
+- [`ft_sort_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex08/ft_sort_int_tab.c) -> Sorts an array of integers.
 
 ### C02
 - [`ft_strcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex00/ft_strcpy.c) -> 
@@ -66,8 +66,8 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_strlcat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex05/ft_strlcat.c) ->
 
 ### C04
-- [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex00/ft_strlen.c) ->
-- [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex01/ft_putstr.c) ->
+- [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex00/ft_strlen.c) -> Displays the number of characters in a string.
+- [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex01/ft_putstr.c) -> Displays the characters of a string one by one.
 - [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex02/ft_putnbr.c) -> Displays the number that has been used as parameter.
 - [`ft_atoi`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex03/ft_atoi.c) ->
 - [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) ->
