@@ -46,11 +46,11 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 ### C02
 - [`ft_strcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex00/ft_strcpy.c) -> 
 - [`ft_strncpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex01/ft_strncpy.c) ->
-- [`ft_str_is_alpha`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex02/ft_str_is_alpha.c) -> Detects if the string contains only alphabetic characters.
-- [`ft_str_is_numeric`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex03/ft_str_is_numeric.c) -> Detects if the string contains only digits.
-- [`ft_str_is_lowercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex04/ft_str_is_lowercase.c) -> Detects if the string contains only lowercase alphabetic characters.
-- [`ft_str_is_uppercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex05/ft_str_is_uppercase.c) -> Detects if the string contains only uppercase alphabetic characters.
-- [`ft_str_is_printable`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex06/ft_str_is_printable.c) -> Detects if the string contains only printable characters.
+- [`ft_str_is_alpha`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex02/ft_str_is_alpha.c) -> Checks if the string contains only alphabetic characters.
+- [`ft_str_is_numeric`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex03/ft_str_is_numeric.c) -> Checks if the string contains only digits.
+- [`ft_str_is_lowercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex04/ft_str_is_lowercase.c) -> Checks if the string contains only lowercase alphabetic characters.
+- [`ft_str_is_uppercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex05/ft_str_is_uppercase.c) -> Checks if the string contains only uppercase alphabetic characters.
+- [`ft_str_is_printable`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex06/ft_str_is_printable.c) -> Checks if the string contains only printable characters.
 - [`ft_strupcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex07/ft_strupcase.c) -> Converts each letter to uppercase.
 - [`ft_strlowcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex08/ft_strlowcase.c) -> Converts each letter to lowercase
 - [`ft_strcapitalize`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex09/ft_strcapitalize.c) -> Converts the first letter of each word to uppercase and the rest to lowercase.
@@ -73,20 +73,20 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) ->
 
 ### C05
-- [`ft_iterative_factorial`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex00/ft_iterative_factorial.c) ->
-- [`ft_recursive_factorial`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex01/ft_recursive_factorial.c) ->
-- [`ft_iterative_power`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex02/ft_iterative_power.c) ->
-- [`ft_recursive_power`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex03/ft_recursive_power.c) ->
-- [`ft_fibonacci`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex04/ft_fibonacci.c) ->
-- [`ft_sqrt`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex05/ft_sqrt.c) ->
-- [`ft_is_prime`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex06/ft_is_prime.c) ->
-- [`ft_find_next_prime`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex07/ft_find_next_prime.c) ->
+- [`ft_iterative_factorial`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex00/ft_iterative_factorial.c) -> Returns the result of the factorial operation from the number used as parameter.
+- [`ft_recursive_factorial`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex01/ft_recursive_factorial.c) -> Returns the result of the factorial operation from the number used as parameter, using recursion.
+- [`ft_iterative_power`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex02/ft_iterative_power.c) -> Returns a power of a number.
+- [`ft_recursive_power`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex03/ft_recursive_power.c) -> Returns a power of a number, using recursion.
+- [`ft_fibonacci`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex04/ft_fibonacci.c) -> Returns the n-th element of the Fibonacci sequence.
+- [`ft_sqrt`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex05/ft_sqrt.c) -> Returns the integer square root of a number.
+- [`ft_is_prime`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex06/ft_is_prime.c) -> Checks if the number is prime.
+- [`ft_find_next_prime`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex07/ft_find_next_prime.c) -> Returns the prime number immediately above or equal to the number used as parameter.
 
 ### C06
-- [`ft_print_program_name`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex00/ft_print_program_name.c) ->
-- [`ft_print_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex01/ft_print_params.c) ->
-- [`ft_rev_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex02/ft_rev_params.c) ->
-- [`ft_sort_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex03/ft_sort_params.c) ->
+- [`ft_print_program_name`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex00/ft_print_program_name.c) -> Program that displays the program name.
+- [`ft_print_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex01/ft_print_params.c) -> Program that displays the arguments received on the command line.
+- [`ft_rev_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex02/ft_rev_params.c) -> Program that displays the arguments received on the command line in reverse order.
+- [`ft_sort_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex03/ft_sort_params.c) -> Program that displays the arguments received on the command line sorted according to ASCII.
 
 
 
