@@ -33,11 +33,11 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex07/ft_putnbr.c) -> Displays the number that has been used as parameter.
 
 ### C01
-- [`ft_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex00/ft_ft.c) ->
-- [`ft_ultimate_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex01/ft_ultimate_ft.c) ->
-- [`ft_swap`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex02/ft_swap.c) ->
-- [`ft_div_mod`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex03/ft_div_mod.c) ->
-- [`ft_ultimate_div_mod`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex04/ft_ultimate_div_mod.c) ->
+- [`ft_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex00/ft_ft.c) -> Changes the value of an integer by receiving its pointer as parameter.
+- [`ft_ultimate_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex01/ft_ultimate_ft.c) -> Changes the value of an integer by receiving its 9º pointer as parameter.
+- [`ft_swap`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex02/ft_swap.c) -> Swaps the value of two integers whose addresses are used as parameters.
+- [`ft_div_mod`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex03/ft_div_mod.c) -> Divides two integers and stores the result in the pointers passed as parameters.
+- [`ft_ultimate_div_mod`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex04/ft_ultimate_div_mod.c) -> Divides two integers and stores the result in the pointers of those same integers.
 - [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex05/ft_putstr.c) ->
 - [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex06/ft_strlen.c) ->
 - [`ft_rev_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex07/ft_rev_int_tab.c) ->
@@ -68,7 +68,7 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 ### C04
 - [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex00/ft_strlen.c) ->
 - [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex01/ft_putstr.c) ->
-- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex02/ft_putnbr.c) ->
+- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex02/ft_putnbr.c) -> Displays the number that has been used as parameter.
 - [`ft_atoi`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex03/ft_atoi.c) ->
 - [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) ->
 
