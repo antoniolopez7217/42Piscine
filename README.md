@@ -9,12 +9,12 @@ This repository contains all the projects I completed during my participation in
 ## About 42
 
 42 is a global education initiative that proposes a new way of learning technology based on the following [principles](https://42.fr/en/the-program/innovative-learning/):
-- No courses. No teachers. No classes
-- A project method
-- Failing is progressing
-- Peer-to-peer learning
-- Peer-to-peer evaluation
-- Group work is not cheating
+- No courses. No teachers. No classes.
+- A project method.
+- Failing is progressing.
+- Peer-to-peer learning.
+- Peer-to-peer evaluation.
+- Group work is not cheating.
 
 The 42 cursus is free for whoever is approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp, is the last stage in the selection process for becoming a "cadet" (42's student). 
 
@@ -23,14 +23,14 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 ## C Projects
 
 ### C00
-- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
-- [`ft_print_alphabet`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex01/ft_print_alphabet.c) -> 
-- [`ft_print_reverse_alphabet`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex02/ft_print_reverse_alphabet.c) -> 
-- [`ft_print_numbers`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex03/ft_print_numbers.c) -> 
-- [`ft_is_negative`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex04/ft_is_negative.c) -> 
-- [`ft_print_comb`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex05/ft_print_comb.c) -> 
-- [`ft_print_comb2`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex06/ft_print_comb2.c) -> 
-- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex07/ft_putnbr.c) -> 
+- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) -> Displays the character used as parameter.
+- [`ft_print_alphabet`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex01/ft_print_alphabet.c) -> Displays the lowercase alphabet on a single line.
+- [`ft_print_reverse_alphabet`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex02/ft_print_reverse_alphabet.c) -> Displays the lowercase alphabet on a single line in descending order.
+- [`ft_print_numbers`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex03/ft_print_numbers.c) -> Displays all digits on a single line.
+- [`ft_is_negative`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex04/ft_is_negative.c) -> Displays "N" or "P" depending on the sign of the integer used as parameter.
+- [`ft_print_comb`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex05/ft_print_comb.c) -> Displays all possible combinations of three different digits in ascending order.
+- [`ft_print_comb2`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex06/ft_print_comb2.c) -> Displays all possible combinations of two numbers between 0 and 99 in ascending order.
+- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex07/ft_putnbr.c) -> Displays the number that has been used as parameter.
 
 ### C01
 - [`ft_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex00/ft_ft.c) ->
