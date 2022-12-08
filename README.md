@@ -66,7 +66,11 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_strlcat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex05/ft_strlcat.c) ->
 
 ### C04
-- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
+- [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex00/ft_strlen.c) ->
+- [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex01/ft_putstr.c) ->
+- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex02/ft_putnbr.c) ->
+- [`ft_atoi`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex03/ft_atoi.c) ->
+- [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) ->
 
 ### C05
 - [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
