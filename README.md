@@ -83,7 +83,10 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_find_next_prime`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex07/ft_find_next_prime.c) ->
 
 ### C06
-- [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) ->
+- [`ft_print_program_name`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex00/ft_print_program_name.c) ->
+- [`ft_print_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex01/ft_print_params.c) ->
+- [`ft_rev_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex02/ft_rev_params.c) ->
+- [`ft_sort_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex03/ft_sort_params.c) ->
 
 
 
