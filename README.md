@@ -44,8 +44,8 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_sort_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex08/ft_sort_int_tab.c) -> Sorts an array of integers.
 
 ### C02
-- [`ft_strcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex00/ft_strcpy.c) -> 
-- [`ft_strncpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex01/ft_strncpy.c) ->
+- [`ft_strcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex00/ft_strcpy.c) -> Copies a string of characters, including the null character.
+- [`ft_strncpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex01/ft_strncpy.c) -> Copies a string of characters (including the null character), but no more than n bytes.
 - [`ft_str_is_alpha`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex02/ft_str_is_alpha.c) -> Checks if the string contains only alphabetic characters.
 - [`ft_str_is_numeric`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex03/ft_str_is_numeric.c) -> Checks if the string contains only digits.
 - [`ft_str_is_lowercase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex04/ft_str_is_lowercase.c) -> Checks if the string contains only lowercase alphabetic characters.
@@ -54,23 +54,23 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_strupcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex07/ft_strupcase.c) -> Converts each letter to uppercase.
 - [`ft_strlowcase`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex08/ft_strlowcase.c) -> Converts each letter to lowercase
 - [`ft_strcapitalize`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex09/ft_strcapitalize.c) -> Converts the first letter of each word to uppercase and the rest to lowercase.
-- [`ft_strlcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex10/ft_strlcpy.c) ->
+- [`ft_strlcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex10/ft_strlcpy.c) -> Copies a string of characters (including the null character), but no more than n - 1 characters.
 
 
 ### C03
-- [`ft_strcmp`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex00/ft_strcmp.c) ->
-- [`ft_strncmp`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex01/ft_strncmp.c) ->
-- [`ft_strcat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex02/ft_strcat.c) ->
-- [`ft_strncat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex03/ft_strncat.c) ->
-- [`ft_strstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex04/ft_strstr.c) ->
-- [`ft_strlcat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex05/ft_strlcat.c) ->
+- [`ft_strcmp`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex00/ft_strcmp.c) -> Compares two strings.
+- [`ft_strncmp`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex01/ft_strncmp.c) -> Compares two strings, but no more than the first n characters.
+- [`ft_strcat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex02/ft_strcat.c) -> Concatenates two strings.
+- [`ft_strncat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex03/ft_strncat.c) -> Concatenate two strings, but no more than the first n characters.
+- [`ft_strstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex04/ft_strstr.c) -> Locates a substring.
+- [`ft_strlcat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex05/ft_strlcat.c) -> Concatenate two strings, but no more than n - 1 characters.
 
 ### C04
 - [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex00/ft_strlen.c) -> Displays the number of characters in a string.
 - [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex01/ft_putstr.c) -> Displays the characters of a string one by one.
 - [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex02/ft_putnbr.c) -> Displays the number that has been used as parameter.
 - [`ft_atoi`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex03/ft_atoi.c) ->
-- [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) ->
+- [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) -> 
 
 ### C05
 - [`ft_iterative_factorial`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex00/ft_iterative_factorial.c) -> Returns the result of the factorial operation from the number used as parameter.
