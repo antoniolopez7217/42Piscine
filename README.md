@@ -22,7 +22,7 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 
 ## C Projects
 
-### C00
+### [C00](https://github.com/antoniolopez7217/42Piscine/tree/main/C00)
 - [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) -> Displays the character used as parameter.
 - [`ft_print_alphabet`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex01/ft_print_alphabet.c) -> Displays the lowercase alphabet on a single line.
 - [`ft_print_reverse_alphabet`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex02/ft_print_reverse_alphabet.c) -> Displays the lowercase alphabet on a single line in descending order.
@@ -32,7 +32,7 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_print_comb2`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex06/ft_print_comb2.c) -> Displays all possible combinations of two numbers between 0 and 99 in ascending order.
 - [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex07/ft_putnbr.c) -> Displays the number that has been used as parameter.
 
-### C01
+### [C01](https://github.com/antoniolopez7217/42Piscine/tree/main/C01)
 - [`ft_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex00/ft_ft.c) -> Changes the value of an integer by receiving its pointer as parameter.
 - [`ft_ultimate_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex01/ft_ultimate_ft.c) -> Changes the value of an integer by receiving its 9º pointer as parameter.
 - [`ft_swap`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex02/ft_swap.c) -> Swaps the value of two integers whose addresses are used as parameters.
@@ -43,7 +43,7 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_rev_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex07/ft_rev_int_tab.c) -> Inverts an array of integers.
 - [`ft_sort_int_tab`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex08/ft_sort_int_tab.c) -> Sorts an array of integers.
 
-### C02
+### [C02](https://github.com/antoniolopez7217/42Piscine/tree/main/C02)
 - [`ft_strcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex00/ft_strcpy.c) -> Copies a string of characters, including the null character.
 - [`ft_strncpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex01/ft_strncpy.c) -> Copies a string of characters (including the null character), but no more than n bytes.
 - [`ft_str_is_alpha`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex02/ft_str_is_alpha.c) -> Checks if the string contains only alphabetic characters.
@@ -56,8 +56,7 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_strcapitalize`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex09/ft_strcapitalize.c) -> Converts the first letter of each word to uppercase and the rest to lowercase.
 - [`ft_strlcpy`](https://github.com/antoniolopez7217/42Piscine/blob/main/C02/ex10/ft_strlcpy.c) -> Copies a string of characters (including the null character), but no more than n - 1 characters.
 
-
-### C03
+### [C03](https://github.com/antoniolopez7217/42Piscine/tree/main/C03)
 - [`ft_strcmp`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex00/ft_strcmp.c) -> Compares two strings.
 - [`ft_strncmp`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex01/ft_strncmp.c) -> Compares two strings, but no more than the first n characters.
 - [`ft_strcat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex02/ft_strcat.c) -> Concatenates two strings.
@@ -65,14 +64,14 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_strstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex04/ft_strstr.c) -> Locates a substring.
 - [`ft_strlcat`](https://github.com/antoniolopez7217/42Piscine/blob/main/C03/ex05/ft_strlcat.c) -> Concatenate two strings, but no more than n - 1 characters.
 
-### C04
+### [C04](https://github.com/antoniolopez7217/42Piscine/tree/main/C04)
 - [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex00/ft_strlen.c) -> Displays the number of characters in a string.
 - [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex01/ft_putstr.c) -> Displays the characters of a string one by one.
 - [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex02/ft_putnbr.c) -> Displays the number that has been used as parameter.
-- [`ft_atoi`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex03/ft_atoi.c) ->
-- [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) -> 
+- [`ft_atoi`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex03/ft_atoi.c) -> Converts the beginning of a string to an integer.
+- [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) -> Displays a number on a given base.
 
-### C05
+### [C05](https://github.com/antoniolopez7217/42Piscine/tree/main/C05)
 - [`ft_iterative_factorial`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex00/ft_iterative_factorial.c) -> Returns the result of the factorial operation from the number used as parameter.
 - [`ft_recursive_factorial`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex01/ft_recursive_factorial.c) -> Returns the result of the factorial operation from the number used as parameter, using recursion.
 - [`ft_iterative_power`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex02/ft_iterative_power.c) -> Returns a power of a number.
@@ -82,12 +81,11 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_is_prime`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex06/ft_is_prime.c) -> Checks if the number is prime.
 - [`ft_find_next_prime`](https://github.com/antoniolopez7217/42Piscine/blob/main/C05/ex07/ft_find_next_prime.c) -> Returns the prime number immediately above or equal to the number used as parameter.
 
-### C06
+### [C06](https://github.com/antoniolopez7217/42Piscine/tree/main/C06)
 - [`ft_print_program_name`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex00/ft_print_program_name.c) -> Program that displays the program name.
 - [`ft_print_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex01/ft_print_params.c) -> Program that displays the arguments received on the command line.
 - [`ft_rev_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex02/ft_rev_params.c) -> Program that displays the arguments received on the command line in reverse order.
 - [`ft_sort_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex03/ft_sort_params.c) -> Program that displays the arguments received on the command line sorted according to ASCII.
-
 
 
 ## Curriculum
