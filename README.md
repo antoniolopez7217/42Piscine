@@ -30,7 +30,7 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_is_negative`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex04/ft_is_negative.c) -> Displays "N" or "P" depending on the sign of the integer used as parameter.
 - [`ft_print_comb`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex05/ft_print_comb.c) -> Displays all possible combinations of three different digits in ascending order.
 - [`ft_print_comb2`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex06/ft_print_comb2.c) -> Displays all possible combinations of two numbers between 0 and 99 in ascending order.
-- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex07/ft_putnbr.c) -> Displays the number that has been used as parameter.
+- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex07/ft_putnbr.c) -> Displays the number used as parameter.
 
 ### [C01](https://github.com/antoniolopez7217/42Piscine/tree/main/C01)
 - [`ft_ft`](https://github.com/antoniolopez7217/42Piscine/blob/main/C01/ex00/ft_ft.c) -> Changes the value of an integer by receiving its pointer as parameter.
