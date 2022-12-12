@@ -67,7 +67,7 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 ### [C04](https://github.com/antoniolopez7217/42Piscine/tree/main/C04)
 - [`ft_strlen`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex00/ft_strlen.c) -> Displays the number of characters in a string.
 - [`ft_putstr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex01/ft_putstr.c) -> Displays the characters of a string one by one.
-- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex02/ft_putnbr.c) -> Displays the number that has been used as parameter.
+- [`ft_putnbr`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex02/ft_putnbr.c) -> Displays the number used as parameter.
 - [`ft_atoi`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex03/ft_atoi.c) -> Converts the beginning of a string to an integer.
 - [`ft_putnbr_base`](https://github.com/antoniolopez7217/42Piscine/blob/main/C04/ex04/ft_putnbr_base.c) -> Displays a number on a given base.
 
