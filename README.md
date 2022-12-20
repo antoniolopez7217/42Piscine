@@ -115,3 +115,5 @@ Below are all the projects/exams I did during the Piscine stage in chronological
 
 - [How to create the 42 header.](https://github.com/42Paris/42header)
 - [How to install norminette.](https://github.com/42School/norminette)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoniolopezchamorro)
