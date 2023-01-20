@@ -6,7 +6,7 @@
 
 This repository contains all the projects I completed during my participation in the C Piscine at the Malaga campus from 17 October to 11 November 2022.
 
-## About 42
+## :swimming_man: About 42
 
 42 is a global education initiative that proposes a new way of learning technology based on the following [principles](https://42.fr/en/the-program/innovative-learning/):
 - No courses. No teachers. No classes.
@@ -20,7 +20,7 @@ The 42 cursus is free for whoever is approved in its selection process. The so-c
 
 During the Piscine, I learned **C Language** (It is the main program used for both projects and exams), **Shell** (The first two days are dedicated to learning the necessary commands to be able to navigate through the MAC terminal) and **Git** (All projects are submitted via a remote git repository).
 
-## C Projects
+## :computer: C Projects
 
 ### [C00](https://github.com/antoniolopez7217/42Piscine/tree/main/C00)
 - [`ft_putchar`](https://github.com/antoniolopez7217/42Piscine/blob/main/C00/ex00/ft_putchar.c) -> Displays the character used as parameter.
@@ -88,7 +88,7 @@ During the Piscine, I learned **C Language** (It is the main program used for bo
 - [`ft_sort_params`](https://github.com/antoniolopez7217/42Piscine/blob/main/C06/ex03/ft_sort_params.c) -> Program that displays the arguments received on the command line sorted according to ASCII.
 
 
-## Curriculum
+## :mortar_board: Curriculum
 
 Below are all the projects/exams I did during the Piscine stage in chronological order. Also, I have included the level that I got in the 42 intranet after submitting each project.
 
@@ -111,7 +111,7 @@ Below are all the projects/exams I did during the Piscine stage in chronological
 
 *All the projects have been tested by Moulinette.*
 
-## Useful links 
+## :bulb: Useful links 
 
 - [How to create the 42 header.](https://github.com/42Paris/42header)
 - [How to install norminette.](https://github.com/42School/norminette)
